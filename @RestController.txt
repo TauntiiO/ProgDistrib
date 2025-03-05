@@ -1,0 +1,9 @@
+@RestController
+public class x{
+	@GetMapping("/a")
+	public type function(){
+		return smthOfType;
+	}
+}
+
+localhost:8080/a (affiche: smthOfType)
