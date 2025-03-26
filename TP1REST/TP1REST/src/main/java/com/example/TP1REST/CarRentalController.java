@@ -1,7 +1,6 @@
 package com.example.TP1REST;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
-import java.util.List;
 
 @RestController
 public class CarRentalController {
